@@ -92,7 +92,7 @@ export const PhaseCountdown: React.FC<PhaseCountdownProps> = ({
             <span className={classes.item}>
               {days < 10 ? `0${days}` : days}
             </span>
-            <span>hrs</span>
+            <span>days</span>
           </Paper>
           <Paper elevation={0}>
             <span className={classes.item}>
