@@ -40,25 +40,7 @@ const SectionRoadmap = () => {
                     </Grid>
                 </Grid>
                 <div className="section-sub-title">
-                    <h2>𝐏𝐇𝐀𝐒𝐄 𝟐-  𝐒𝐀𝐌𝐔𝐑𝐀𝐈 𝐅𝐀𝐂𝐓𝐈𝐎𝐍 ⁣⁣⛩️</h2>
-                </div>
-                <Grid container justifyContent="center">
-                    <Grid item xs={12} sm={12} md={6}>
-                        <div className="icon-box">
-                            <h4 className="rd-title">𝟎% - 𝐃𝐀𝐑𝐊 𝐒𝐀𝐌𝐔𝐑𝐀𝐈𝐒</h4>
-                            <p className="rd-text">An ancient faction from the land of Krigsland wants to fight and dominate territory. DARK SAMURAIS will be deployed into the Metaverse.</p>
-                        </div>
-                    </Grid>
-                    <Grid item xs={12} sm={12} md={6}>
-                        <div className="icon-box">
-                            <h4 className="rd-title">𝟏𝟎𝟎% - 𝐒𝐔𝐏𝐏𝐋𝐘 𝐆𝐎𝐍𝐄</h4>
-                            <p className="rd-text">Time to incorporate DARK SAMURAIS into secondary markets.⁣⁣⁣⁣
-                            </p>
-                        </div>
-                    </Grid>
-                </Grid>
-                <div className="section-sub-title">
-                    <h2>𝐏𝐇𝐀𝐒𝐄 𝟑 - 𝐕𝐈𝐊𝐈𝐍𝐆𝐒 𝐅𝐀𝐂𝐓𝐈𝐎𝐍⁣⁣ ⚒️</h2>
+                    <h2>𝐏𝐇𝐀𝐒𝐄 𝟐- 𝐕𝐈𝐊𝐈𝐍𝐆𝐒 𝐅𝐀𝐂𝐓𝐈𝐎𝐍⁣⁣ ⚒️</h2>
                 </div>
                 <Grid container justifyContent="center">
                     <Grid item xs={12} sm={12} md={6}>
@@ -75,6 +57,24 @@ const SectionRoadmap = () => {
                         </div>
                     </Grid>
                 </Grid>
+                <div className="section-sub-title">
+                    <h2>𝐏𝐇𝐀𝐒𝐄 𝟑 - 𝐒𝐀𝐌𝐔𝐑𝐀𝐈 𝐅𝐀𝐂𝐓𝐈𝐎𝐍 ⁣⁣⛩️</h2>
+                </div>
+                <Grid container justifyContent="center">
+                    <Grid item xs={12} sm={12} md={6}>
+                        <div className="icon-box">
+                            <h4 className="rd-title">𝟎% - 𝐃𝐀𝐑𝐊 𝐒𝐀𝐌𝐔𝐑𝐀𝐈𝐒</h4>
+                            <p className="rd-text">An ancient faction from the land of Krigsland wants to fight and dominate territory. DARK SAMURAIS will be deployed into the Metaverse.</p>
+                        </div>
+                    </Grid>
+                    <Grid item xs={12} sm={12} md={6}>
+                        <div className="icon-box">
+                            <h4 className="rd-title">𝟏𝟎𝟎% - 𝐒𝐔𝐏𝐏𝐋𝐘 𝐆𝐎𝐍𝐄</h4>
+                            <p className="rd-text">Time to incorporate DARK SAMURAIS into secondary markets.⁣⁣⁣⁣
+                            </p>
+                        </div>
+                    </Grid>
+                </Grid>                
             </Container>
         </section>
     )

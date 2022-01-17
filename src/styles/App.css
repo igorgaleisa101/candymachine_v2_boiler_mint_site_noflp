@@ -239,14 +239,16 @@ section {
 }
 
 .info-img {
+  margin-top: 20px;
   text-align: center;
   padding: 20px 30px;
 }
 
 .info-promo {
   width: 240px;
+  height: 300px;
   border-style: double;
-  border-radius: 40px;  
+  border-radius: 0px;  
 }
 
 footer {

@@ -21,7 +21,7 @@ const SectionFaq = () => {
                     </div>
                     <div className="faq-item">
                         <h2>When can I mint Royal Knights?</h2>
-                        <p>You can mint your Knight 10/01/22 - 12am GMT.</p>
+                        <p>You can mint your Knight 20/01/22 - 8pm GMT.</p>
                         <hr />
                     </div>       
                     <div className="faq-item">
@@ -42,7 +42,7 @@ const SectionFaq = () => {
                     </div>     
                     <div className="faq-item">
                         <h2>Which wallet can I use?</h2>
-                        <p>Phantom Wallet</p>
+                        <p>Phantom, Solflare, Sollet, MathWallet</p>
                         <hr />
                     </div>          
                 </div>
