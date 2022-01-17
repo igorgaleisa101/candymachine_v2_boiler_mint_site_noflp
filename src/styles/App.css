@@ -238,6 +238,14 @@ section {
   font-weight: 600;
 }
 
+.carousel-root {
+  margin: 30px;
+}
+
+.slider-wrapper ul {
+  /* transform: translate3d(0%, 0px, 0px) !important; */
+}
+
 .info-img {
   margin-top: 20px;
   text-align: center;

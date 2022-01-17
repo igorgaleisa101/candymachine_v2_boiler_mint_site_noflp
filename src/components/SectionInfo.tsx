@@ -1,6 +1,7 @@
 import { makeStyles } from "@material-ui/core";
 import { Container } from "@material-ui/core";
 import Grid from "@material-ui/core/Grid";
+import ImageSlider from "./ImageSlider";
 
 const useStyles = makeStyles(() => ({
 }));
@@ -26,9 +27,10 @@ const SectionInfo = () => {
                         </div>
                     </Grid>
                     <Grid item xs={12} sm={12} md={12}>
-                        <div className="info-img">
+                        {/* <div className="info-img">
                             <img className="info-promo" src="/img/promo.gif" alt="" />
-                        </div>
+                        </div> */}
+                        <ImageSlider />
                     </Grid>
                     <Grid item xs={12} sm={12} md={12}>
                         <div className="history-title">
