@@ -19,7 +19,7 @@ const SectionInfo = () => {
                     <Grid item xs={12} sm={12} md={12}>
                         <div className="history-title">
                             <h3>
-                                ABOUT OUT COLLECTION
+                                ABOUT OUR COLLECTION
                             </h3>                            
                         </div>
                         <div className="history-info">
