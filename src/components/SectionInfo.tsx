@@ -44,9 +44,9 @@ const SectionInfo = () => {
                             </Grid>
                             <Grid item xs={12} sm={12} md={6}>
                                 <div className="history-info">                        
-                                If little is known of the 3 existing Factions it is that each one of them has or had GODS that led the Faction, but so much time has passed that it is only a myth. 
-                            One of the factions that has dominated most of the known territory are the Royal knights, a very old faction of powerful elemental knights that not everyone was worthy to become one. 
-                            This faction claims to have one of the strongest GODs in history, today there are only 1600 Royal knights remaining.
+                                If there's something known about the threee factions is that they had been dominated by GODS that they had been dominated by GODS, but it has been so long since they led them that they're just a myth now.
+                                The faction thats has dominated the longest is where the Royal Knights rule, a very old faction of powerful elemental knights that not everyone was worthy to become one. 
+                            This faction claims to have one of the strongest GODs in history, today there are only 1600 Royal Knights remaining.
                                 </div>
                             </Grid>
                         </Grid>                        
