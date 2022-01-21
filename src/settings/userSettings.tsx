@@ -56,7 +56,7 @@ export const welcomeSettings: WelcomeSettings = {
 
   // Countdown Timer
   countdownEnable: true,
-  countdownTo: date("21 Jan 2022 24:00:00 GMT"),
+  countdownTo: date("21 Jan 2022 22:00:00 GMT"),
   //Example date below
   // date('29 2021 00:00:00 GMT')
 
@@ -138,7 +138,7 @@ export class MintWhitelistCustomHTML extends React.Component {
 export const publicSaleSettings: PublicSaleSettings = {
   //start date and end date must match your Candy Machine Config for public launch!
 
-  startDate: date("21 Jan 2022 24:00:00 GMT"),
+  startDate: date("21 Jan 2022 22:00:00 GMT"),
   endDate: undefined,
   countdown: true,
   //Example date below
