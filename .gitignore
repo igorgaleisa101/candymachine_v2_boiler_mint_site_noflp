@@ -28,6 +28,7 @@ typings/
 
 #Enviroment File
 .env
+.env.*
 
 #Build
 build/
